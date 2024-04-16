@@ -1,4 +1,3 @@
-SELECT * FROM db_9a21de.hardware;
 -- 1 
 SELECT SUM(amount) AS total_items
 FROM hardware;
